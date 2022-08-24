@@ -1,0 +1,36 @@
+.doctor-detail-container {
+  padding: 2% 10%;
+  .detail-info-doctor {
+    div{
+      ul{
+        line-height: 2rem;
+      }
+    }
+  }
+
+  .intro-doctor {
+    .content-left {
+      width: 150px;
+      height: 150px;
+      margin: 0 5% 5% 0;
+      img {
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+        border-radius: 50%;
+      }
+    }
+    .content-right {
+      flex: 1;
+    }
+  }
+}
+.schedule-doctor-home {
+  display: flex;
+  .content-left {
+    width: 50%;
+  }
+  .content-right {
+    width: 50%;
+  }
+}

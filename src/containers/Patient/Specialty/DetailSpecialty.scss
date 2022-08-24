@@ -1,0 +1,46 @@
+.each-doctor {
+  background-color: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 8px;
+  border-bottom: none;
+  margin-bottom: 10px;
+  min-height: 350px;
+  padding: 1rem;
+  .content-left {
+
+  }
+}
+.description {
+  line-height: 2rem;
+}
+#profile-description {
+  position:relative;
+}
+#profile-description .text {
+  margin-bottom: 5px;
+  color: #777;
+  padding: 0 15px;
+  position:relative;
+  font-family: Arial;
+  font-size: 14px;
+  display: block;
+}
+#profile-description .show-more {
+  color: #777;
+  position:relative;
+  font-size: 12px;
+  text-align: center;
+  background: #f1f1f1;
+  cursor: pointer;
+  margin-bottom: 20px;
+  display: inline-block;
+  padding: 0 10px;
+  border-radius: 5px;
+}
+#profile-description .show-more:hover {
+  color: #1779dd;
+}
+#profile-description .show-more-height {
+  height: 250px;
+  overflow:hidden;
+}

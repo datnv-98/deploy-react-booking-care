@@ -1,0 +1,14 @@
+.background-img-doctor {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    border-radius: 50%;
+  }
+}
+.name-main:hover {
+  color: #E0A801;
+}

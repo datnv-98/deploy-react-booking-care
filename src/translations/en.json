@@ -1,0 +1,40 @@
+{
+    "home-header": {
+        "all": "Comprehensive health care",
+        "welcome": "Welcome"
+    },
+   "banner": {
+
+   },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "redux-manage": "Redux-manage"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+      "admin": {
+        "manage-user": "Manage user",
+        "manage-doctor": "Manage doctor",
+        "manage-admin": "Manage admin",
+        "crud": "CRUD User",
+        "crud-redux": "CRUD Redux",
+        "clinic": "clinic",
+        "manage-clinic": "Manage clinic",
+        "specialty": "Specialty",
+        "manage-specialty": "Manage specialty",
+        "handbook": "Handbook",
+        "manage-handbook": "Manage handbook"
+      },
+      "doctor": {
+        "manage-schedule": "Manage Doctor Schedule",
+        "manage-patient": "Manage Patient"
+      }
+    }
+
+}

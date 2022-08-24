@@ -1,0 +1,22 @@
+.manage-doctor-container {
+  padding: 0 10%;
+  .manage-doctor-header {
+    text-align: center;
+    padding: 1% 0;
+  }
+  .more-info-top {
+    margin-bottom: 20px;
+    .content-left {
+      width: 20%;
+    }
+    .content-right {
+      width: 60%;
+    }
+  }
+  .more-info {
+    margin-bottom: 20px;
+    .content-left, .content-center, .content-right {
+      width: 20%;
+    }
+  }
+}

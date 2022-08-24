@@ -1,0 +1,22 @@
+.schedule-doctor {
+  .active {
+    background: orangered !important;
+    color: white;
+  }
+  .btn-time {
+    height: 40px;
+    background: white;
+    border: 1px solid darkgray;
+  }
+}
+.btn-confirn {
+  background: lightseagreen;
+  color: white;
+  border: none;
+  margin-right: 15px;
+}
+.btn-send-bill {
+  background: darkorchid;
+  color: white;
+  border: none;
+}

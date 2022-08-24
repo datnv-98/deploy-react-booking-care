@@ -1,0 +1,52 @@
+@import "../styles/common.scss";
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.btn-edit {
+  width: 50px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: orange;
+  cursor: pointer;
+}
+.btn-delete {
+  width: 50px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: red;
+  cursor: pointer;
+}
+button:focus {
+  box-shadow: unset !important;
+}
+select:focus-visible {
+  outline: none;
+}
+.validate:after{
+  content: '*';
+  color: red;
+  font-weight: bold;
+  padding-left: 0.15rem;
+}
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: grey;
+  border-radius: 10px;
+}

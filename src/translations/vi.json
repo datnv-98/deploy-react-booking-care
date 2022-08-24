@@ -1,0 +1,39 @@
+{
+    "home-header": {
+        "all": "Chăm sóc sức khỏe toàn diện",
+        "welcome": "Xin chào"
+    },
+    "banner": {
+
+    },
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "redux-manage": "Quản lý user-redux"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        },
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-doctor": "Quản lý bác sĩ",
+            "manage-admin": "Quản lý admin",
+            "crud": "CRUD User",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Phòng khám",
+            "manage-clinic": "Quản lý phòng khám",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lý chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lý cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lý kế hoạch khám bệnh",
+            "manage-patient": "Quản lý bệnh nhân khám bệnh"
+        }
+    }
+}
